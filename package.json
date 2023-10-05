@@ -1,10 +1,10 @@
 {
   "name": "accessible-ui",
   "description": "Accessible User Interface",
-  "version": "0.0.1-beta.01",
+  "version": "0.0.1-beta.02",
   "license": "LGPL-3.0-only",
   "main": "src/index.js",
-  "homepage": "https://github.com/furcan/accessible-ui",
+  "homepage": "https://github.com/sapiensou/accessible-ui",
   "scripts": {
     "test": "node src/index.js"
   },
@@ -24,13 +24,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/furcan/accessible-ui.git"
+    "url": "https://github.com/sapiensou/accessible-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/furcan/accessible-ui/issues"
+    "url": "https://github.com/sapiensou/accessible-ui/issues"
   },
   "author": "Furkan (https://github.com/furcan)",
   "contributors": [
-    "Furkan (https://github.com/furcan)"
+    "Furkan (https://github.com/furcan)",
+    "Sapiens OÜ (https://github.com/sapiensou)"
   ]
 }
