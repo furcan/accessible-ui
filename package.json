@@ -1,0 +1,36 @@
+{
+  "name": "accessible-ui",
+  "description": "Accessible User Interface",
+  "version": "0.0.1-beta.01",
+  "license": "LGPL-3.0-only",
+  "main": "src/index.js",
+  "homepage": "https://github.com/furcan/accessible-ui",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "Accessibility",
+    "Web Accessibility",
+    "Accessible User Interface",
+    "Accessible User Experience",
+    "Accessible UI",
+    "Accessible UX",
+    "Accessible UI Library",
+    "React UI Library",
+    "React Component Library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furcan/accessible-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/furcan/accessible-ui/issues"
+  },
+  "author": "Furkan (https://github.com/furcan)",
+  "contributors": [
+    "Furkan (https://github.com/furcan)"
+  ]
+}
